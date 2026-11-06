@@ -27,6 +27,8 @@ O projeto faz parte do meu portfólio de estudos e desenvolvimento profissional 
 
 O dashboard apresenta indicadores de valor total das propostas, quantidade de propostas e distribuição por status.
 
+![Dashboard Comercial do SalesFlow CRM](images/dashboard-comercial.png)
+
 ## 🎯 Objetivo
 
 Demonstrar conhecimentos práticos em modelagem de dados, automação declarativa e análise de informações comerciais utilizando Salesforce.
