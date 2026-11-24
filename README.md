@@ -69,6 +69,24 @@ Demonstrar conhecimentos práticos em modelagem de dados, automação declarativ
 - Expandir os relatórios e indicadores comerciais.
 - Documentar os metadados do Salesforce e versioná-los no GitHub.
 
+---
+
+## 📚 Documentação técnica
+
+A documentação detalhada da arquitetura de dados do SalesFlow CRM está disponível no link abaixo:
+
+- [Modelagem de Dados (Data Model)](docs/data-model.md)
+
+A documentação inclui:
+
+- Diagrama de relacionamento entre entidades (ERD).
+- Dicionário de dados.
+- Objetos e campos personalizados.
+- Relacionamento Lookup (1:N).
+- Configuração de Picklists.
+- Regras de integridade de dados.
+
+
 ## 👩‍💻 Autora
 
 Paula Canalle
